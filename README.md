@@ -30,7 +30,7 @@ No. Roblox FPS Unlocker was written only for the Windows platform and I [current
 
 6. **How do I uninstall Roblox FPS Unlocker?**
 
-RFU does not install itself anywhere. It can be deleted by simply exiting the program if it is open (tray icon->Exit) and deleting `rbxfpsunlocker.exe`.
+RFU does not install itself anywhere. It can be deleted by simply exiting the program if it is open (tray icon->Exit) and deleting `FPSUnlocker.exe`.
 
 
 
